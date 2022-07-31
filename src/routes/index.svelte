@@ -24,7 +24,8 @@
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		try editing <strong>src/routes/index.svelte</strong><br /> wow this is freakin cool
+
 	</h2>
 
 	<Counter />
